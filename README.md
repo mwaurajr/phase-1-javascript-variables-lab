@@ -68,7 +68,7 @@ the test is telling us that the tests that come afterwards will be about
 `companyName`. Then comes the word `it`, where you see the following:
 
 ```js
-it('is set as Scuber', function () {
+it('is set as Scuber', function () {()
   // tests are here
 });
 ```
